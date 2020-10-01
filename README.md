@@ -17,6 +17,10 @@ The above chart plots the ratio of female cabinet members against the ratio of m
 
 The above chart plots the ratio of female cabinet members over time; the ratio of female cabinet members appears to be increasing over time.
 
+[![image](https://user-images.githubusercontent.com/68825348/94756050-4af60600-034b-11eb-98c4-1fd69bb16c0b.png)](https://vizhub.com/reshayganfar/e72e753d5ff34c23bff7466351e5c12b)
+
+The chart was designed to investigate the question "How does retention rate vary across different governmental systems?" Based on the chart, it appears as though Civilian Dictatorships and Royal Dictatorships have the highest average retention rates while Mixed Democratic, Parliamentary Democracy and Presidential Democracy have lower average retention rates.
+
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
