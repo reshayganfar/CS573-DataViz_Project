@@ -10,6 +10,7 @@ I’ve created several visualizations to investigate the data so far. Each of th
 
 
 [![image](https://user-images.githubusercontent.com/68825348/94755774-77f5e900-034a-11eb-9d5e-e123dd56edd7.png)](https://vizhub.com/reshayganfar/3452ae85ed284611b9f01ed085428735)
+The above chart plots the ratio of female cabinet members against the ratio of male cabinet members. In general there appears to be an inverse relationship between the two.
 
 ## Questions & Tasks
 
