@@ -13,6 +13,10 @@ I’ve created several visualizations to investigate the data so far. Each of th
 
 The above chart plots the ratio of female cabinet members against the ratio of male cabinet members. In general there appears to be an inverse relationship between the two.
 
+[![image](https://user-images.githubusercontent.com/68825348/94755896-dd49da00-034a-11eb-90e1-491aa9a776e6.png)](https://vizhub.com/reshayganfar/9cd83f48e9464b69823f5d603b4088c4)
+
+The above chart plots the ratio of female cabinet members over time; the ratio of female cabinet members appears to be increasing over time.
+
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
