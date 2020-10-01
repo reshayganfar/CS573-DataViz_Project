@@ -45,4 +45,4 @@ The sketch below shows an interactive bubble chart that can be used to observe p
 
 ## Open Questions
 
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
+I am fairly concerned about my ability to implement a dynamic bubble chart in D3 and React. My programming background is limited (I have done some work in RStudio and implemented a RShiny app prior to this course). I am largely patching things together in this course. I am trying to learn JavaScript and to fully understand each topic mentioned in the lectures, but it has been fast-paced and is difficult for me. I will continue trying to learn the required skills and will begin re-watching lectures to hopefully gain a deeper understanding prior to attempting this visualization. 
