@@ -6,7 +6,7 @@ The data I propose to visualize for my project is the WhoGov dataset provided by
 
 ## Prototypes
 
-I’ve created three visualizations to investigate the data. Each of these visualizations is provided below with a brief description: 
+I’ve created four visualizations to investigate the data. Each of these visualizations is provided below with a brief description: 
 
 
 [![image](https://user-images.githubusercontent.com/68825348/94755774-77f5e900-034a-11eb-9d5e-e123dd56edd7.png)](https://vizhub.com/reshayganfar/3452ae85ed284611b9f01ed085428735)
