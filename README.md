@@ -36,8 +36,12 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Sketches
 
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
+The sketch below shows an interactive bubble chart that can be used to observe patterns over time in the data. I can envision several different versions of this plot: 
+- The one shown below, plotting ratio of females against ratio of military in the cabinet; bubble size indicates size of cabinet and bubble color indicates type of government
+- Ratio of females against retention rate; bubble size indicates size of cabinet and bubble color indicates type of government
+- The same plots above, except that the bubble colors would indicate the region/continent of the country (rather than type of government)
+
+![image](https://user-images.githubusercontent.com/68825348/94760479-7979de00-0357-11eb-9235-ed0768c9e617.png)
 
 ## Open Questions
 
