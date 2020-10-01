@@ -29,10 +29,10 @@ The chart was designed to investigate the question "How does the ratio of female
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
+ * How does government type impact the ratio of females in the cabinet? Ratio of military? Retention? The prototype visualizations above have started this investigation. 
+ * How does the ratio of females in cabinets change over time? How is it impacted by government type? Is it correlated with military involvement or retention rate? These questions can be investigated with a dynamic bubble chart (refer to Sketch section below). 
+ * How does region impact retention rates? Female ratio in the cabinet? These can be investigated using bar charts similar to those already plotted, using region for color coding instead of governmental system. These can also be investigated in a bubble chart. 
+ * The bar charts and bubble plots outlined above could be made interactive by allowing the user to change variables, or to make the graphs dynamic over time using a slider. 
 
 ## Sketches
 
