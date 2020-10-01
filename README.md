@@ -21,6 +21,10 @@ The above chart plots the ratio of female cabinet members over time; the ratio o
 
 The chart was designed to investigate the question "How does retention rate vary across different governmental systems?" Based on the chart, it appears as though Civilian Dictatorships and Royal Dictatorships have the highest average retention rates while Mixed Democratic, Parliamentary Democracy and Presidential Democracy have lower average retention rates.
 
+[![image](https://user-images.githubusercontent.com/68825348/94756819-67933d80-034d-11eb-8f7d-3bb68f8bc823.png)](https://vizhub.com/reshayganfar/14699b46c9104e9492b0fe0af3df991e)
+
+The chart was designed to investigate the question "How does the ratio of females in cabinets different governmental systems?" Based on the chart, it appears as though Mixed Democratic, Parliamentary Democracies and Presidential Democracies have slightly higher ratios of females in cabinets while it appears that Military Dictatorships and Royal Dictatorships have lower ratios.
+
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
