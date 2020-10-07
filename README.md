@@ -49,12 +49,12 @@ The sketch below shows an interactive bubble chart that can be used to observe p
 
 ## Schedule of Deliverables
 Below is the list of tasks that I will complete for this project: 
-* Clean and format data for final deliverable
-* Create base scatter plot using single year of data:
-- Add x- and y-axis menus
-- Add color menu
-- Add tooltip displaying country name and x- & y-axis values
-* Add slider to allow user to adjust the year of data being used
+* Clean and format data for final deliverable - 10/14/20
+* Create base scatter plot using single year of data - 10/21/20
+- Add x- and y-axis menus - 10/21/20
+- Add color menu - 10/21/20
+- Add tooltip displaying country name and x- & y-axis values - 10/28/20
+* Add slider to allow user to adjust the year of data being used - 11/04/20
 
 ## Open Questions
 
