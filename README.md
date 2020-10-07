@@ -47,6 +47,15 @@ The sketch below shows an interactive bubble chart that can be used to observe p
 
 ![image](https://user-images.githubusercontent.com/68825348/94760479-7979de00-0357-11eb-9235-ed0768c9e617.png)
 
+## Schedule of Deliverables
+Below is the list of tasks that I will complete for this project: 
+* Clean and format data for final deliverable
+* Create base scatter plot using single year of data:
+- Add x- and y-axis menus
+- Add color menu
+- Add tooltip displaying country name and x- & y-axis values
+* Add slider to allow user to adjust the year of data being used
+
 ## Open Questions
 
 I am fairly concerned about my ability to implement a dynamic bubble chart in D3 and React. My programming background is limited (I have done some work in RStudio and implemented a RShiny app prior to this course). I am largely patching things together in this course. I am trying to learn JavaScript and to fully understand each topic mentioned in the lectures, but it has been fast-paced and is difficult for me. I will continue trying to learn the required skills and will begin re-watching lectures to hopefully gain a deeper understanding prior to attempting this visualization. 
