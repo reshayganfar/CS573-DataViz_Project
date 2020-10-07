@@ -6,7 +6,7 @@ The data I propose to visualize for my project is the WhoGov dataset provided by
 
 ## Prototypes
 
-I’ve created four visualizations to investigate the data. Each of these visualizations is provided below with a brief description: 
+I’ve created five visualizations to investigate the data. Each of these visualizations is provided below with a brief description: 
 
 
 [![image](https://user-images.githubusercontent.com/68825348/94755774-77f5e900-034a-11eb-9d5e-e123dd56edd7.png)](https://vizhub.com/reshayganfar/3452ae85ed284611b9f01ed085428735)
@@ -24,6 +24,10 @@ The chart was designed to investigate the question "How does retention rate vary
 [![image](https://user-images.githubusercontent.com/68825348/94756819-67933d80-034d-11eb-8f7d-3bb68f8bc823.png)](https://vizhub.com/reshayganfar/14699b46c9104e9492b0fe0af3df991e)
 
 The chart was designed to investigate the question "How does the ratio of females in cabinets different governmental systems?" Based on the chart, it appears as though Mixed Democratic, Parliamentary Democracies and Presidential Democracies have slightly higher ratios of females in cabinets while it appears that Military Dictatorships and Royal Dictatorships have lower ratios.
+
+[![image](https://user-images.githubusercontent.com/68825348/95390738-b2133d80-08aa-11eb-891c-559aae692182.png)](https://vizhub.com/reshayganfar/f6bf28624809495f92feeafbe4b681cd)
+
+The chart was designed to investigate the question "How does the ratio of females in cabinets relate to the ratio of military personal in cabinets in different regions?" Africa stands out as a region that has significant military presence in combination with female presence in government cabinets. Asia & Pacific and the Middle East stand out as having significant military presence with low female presence in government cabinets. Europe stands out as having the highest level of female involvement.
 
 ## Questions & Tasks
 
