@@ -31,15 +31,19 @@ The following tasks and questions will drive the visualization and interaction d
 
  * How does government type impact the ratio of females in the cabinet? Ratio of military? Retention? The prototype visualizations above have started this investigation. 
  * How does the ratio of females in cabinets change over time? How is it impacted by government type? Is it correlated with military involvement or retention rate? These questions can be investigated with a dynamic bubble chart (refer to Sketch section below). 
- * How does region impact retention rates? Female ratio in the cabinet? These can be investigated using bar charts similar to those already plotted, using region for color coding instead of governmental system. These can also be investigated in a bubble chart. 
- * The bar charts and bubble plots outlined above could be made interactive by allowing the user to change variables, or to make the graphs dynamic over time using a slider. 
+ * How does region impact retention rates? Female ratio in the cabinet? These can also be investigated in the bubble chart above, using the color to indicate region. 
 
-## Sketches
+## Interaction in the Vizualization
 
-The sketch below shows an interactive bubble chart that can be used to observe patterns over time in the data. I can envision several different versions of this plot: 
-- The one shown below, plotting ratio of females against ratio of military in the cabinet; bubble size indicates size of cabinet and bubble color indicates type of government
-- Ratio of females against retention rate; bubble size indicates size of cabinet and bubble color indicates type of government
-- The same plots above, except that the bubble colors would indicate the region/continent of the country (rather than type of government)
+There are four types of interaction that I want to add to the visualization: 
+1) Tooltip: When the mouse hovers over a data point, the country name, x-variable value and y-variable value will be displayed. 
+2) X- and Y-Variable Menus: There will be a dropdown to select the variable on each axis; the two dropdowns will contain the same options. Options will include: size of cabinet, female ratio, military ratio and retention rate.
+3) Color Menu: There will be a dropdown menu to allow the user to change the color coding. The two options will be geographic region and government system. 
+4) Slider for Year: As mentioned above, the dataset covers a 50-year span (1966 - 2016). A slider will be introduced to allow the user to select which year of data to display. 
+
+## Sketch
+
+The sketch below shows an interactive bubble chart that can be used to observe patterns over time in the data. This sketch will also include the interactions listed in Items 1-3 in the previous section. 
 
 ![image](https://user-images.githubusercontent.com/68825348/94760479-7979de00-0357-11eb-9235-ed0768c9e617.png)
 
