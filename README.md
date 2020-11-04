@@ -26,19 +26,11 @@ The above chart plots the ratio of female cabinet members against the ratio of m
 
 The above chart plots the number of countries with a female ratio of zero over time. This plot shows that the number of countries was relatively static at about 100 until 1975, when the number started to decrease. Around 2006, the number stabilized at about 10 countries, until 2013 when the number began to slowly decrease again. 
 
-## Sketch
-
-The sketch below shows an interactive bubble chart that can be used to observe patterns over time in the data. This sketch will also include the interactions listed in Items 1-3 in the previous section. 
-
-![image](https://user-images.githubusercontent.com/68825348/94760479-7979de00-0357-11eb-9235-ed0768c9e617.png)
+## Final Visualization
 
 ## Questions & Tasks
 
-The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * How does government type impact the ratio of females in the cabinet? Ratio of military? Retention? The prototype visualizations above have started this investigation. 
- * How does the ratio of females in cabinets change over time? How is it impacted by government type? Is it correlated with military involvement or retention rate? These questions can be investigated with a dynamic bubble chart (refer to Sketch section below). 
- * How does region impact retention rates? Female ratio in the cabinet? These can also be investigated in the bubble chart above, using the color to indicate region. 
 
 ## Interaction in the Vizualization
 
