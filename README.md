@@ -44,6 +44,10 @@ Experimenting with the visualization settings allows the user to perceive the fo
 4) Military dictatorships started out with a moderate military ratio, which increased through steadily into the 1980s (when military dictatorships had very high military ratios relative to other government systems) before decreasing to much lower levels again by 2016
 5) No trend over time is apparent in the retention rate 
 
-## Open Questions
+## Future Work
 
-I am fairly concerned about my ability to implement a dynamic bubble chart in D3 and React. My programming background is limited (I have done some work in RStudio and implemented a RShiny app prior to this course). I am largely patching things together in this course. I am trying to learn JavaScript and to fully understand each topic mentioned in the lectures, but it has been fast-paced and is difficult for me. I will continue trying to learn the required skills and will begin re-watching lectures to hopefully gain a deeper understanding prior to attempting this visualization. 
+There are improvements that can be made to the existing visualization, as well as alternate visualizations that may be more effective with the given data set. 
+
+###### Improvements to Existing Visualization
+
+Test
