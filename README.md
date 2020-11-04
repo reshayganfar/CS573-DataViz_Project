@@ -28,26 +28,18 @@ The above chart plots the number of countries with a female ratio of zero over t
 
 ## Final Visualization
 
-## Questions & Tasks
+[![image](https://user-images.githubusercontent.com/68825348/98069325-54273680-1e13-11eb-81a5-18693e57bd43.png)](https://vizhub.com/reshayganfar/ab6dbca1e3d84f8da96c3caf48b634cb?mode=full)
 
-
-
-## Interaction in the Vizualization
-
-There are four types of interaction that I want to add to the visualization: 
-1) Tooltip: When the mouse hovers over a data point, the country name, x-variable value and y-variable value will be displayed. 
-2) X- and Y-Variable Menus: There will be a dropdown to select the variable on each axis; the two dropdowns will contain the same options. Options will include: size of cabinet, female ratio, military ratio and retention rate.
-3) Color Menu: There will be a dropdown menu to allow the user to change the color coding. The two options will be geographic region and government system. 
-4) Slider for Year: As mentioned above, the dataset covers a 50-year span (1966 - 2016). A slider will be introduced to allow the user to select which year of data to display. 
-
-## Schedule of Deliverables
-Below is the list of tasks that I will complete for this project: 
-* Clean and format data for final deliverable - 10/14/20
-* Create base scatter plot using single year of data - 10/21/20
-- Add x- and y-axis menus - 10/21/20
-- Add color menu - 10/21/20
-- Add tooltip displaying country name and x- & y-axis values - 10/28/20
-* Add slider to allow user to adjust the year of data being used - 11/04/20
+The final visualization for this WhoGove dataset is shown above. The chart is a scatterplot with the following features: 
+* Tooltip: When hovering over a data point, the tooltip will provide the country name, x-value and y-value
+* X- and Y-axis Dropdowns: The variable plotted on each access can be selected as any of the following three choices: 
+- Female Ratio
+- Military Ratio
+- Retention
+* Color Dropdown: The meaning of the color coding can be changed between the following two options: 
+- Region: color coding indicates the geographic region of each data point
+- Government system: color coding indicates the government system of each data point
+* Slider: allows the user to select which year of data to view; year range from 1966 to 2016; tick marks indicate 10-year increments
 
 ## Open Questions
 
