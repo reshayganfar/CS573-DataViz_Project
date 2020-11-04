@@ -48,6 +48,6 @@ Experimenting with the visualization settings allows the user to perceive the fo
 
 There are improvements that can be made to the existing visualization, as well as alternate visualizations that may be more effective with the given data set. 
 
-###### Improvements to Existing Visualization
+#### Improvements to Existing Visualization
 
 Test
