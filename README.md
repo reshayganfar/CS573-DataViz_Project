@@ -12,23 +12,15 @@ I’ve created five visualizations to investigate the data. Each of these visual
 
 [![image](https://user-images.githubusercontent.com/68825348/94755774-77f5e900-034a-11eb-9d5e-e123dd56edd7.png)](https://vizhub.com/reshayganfar/3452ae85ed284611b9f01ed085428735)
 
-The above chart plots the ratio of female cabinet members against the ratio of male cabinet members. There are many data points along the x-axis (corresponding to a military ratio of zero) and many points along the y-axis (corresponding to a female ratio of zero). However, there appears to be a loosely correlated inverse relationship between the female ratio and the military ratio. This observation prompted me to want to dig deeper and investigate what other variables may be correlated with or possibly causing this relationship. 
+The above chart plots the ratio of female cabinet members against the ratio of military cabinet members. There are many data points along the x-axis (corresponding to a military ratio of zero) and many points along the y-axis (corresponding to a female ratio of zero). However, there appears to be a loosely correlated inverse relationship between the female ratio and the military ratio. This observation prompted me to want to dig deeper and investigate what other variables may be correlated with or possibly causing this relationship. 
 
 [![image](https://user-images.githubusercontent.com/68825348/94756050-4af60600-034b-11eb-98c4-1fd69bb16c0b.png)](https://vizhub.com/reshayganfar/e72e753d5ff34c23bff7466351e5c12b)
 
 The above chart was designed investigate the relationship between two other variables: (1) retention rate and (2) government type. While not a very strong indicator, the retention rate appeared to be lowest in presidential democracies (yellow bars), and highest in royal dictatorships (purple bars) and civilian dictatorships (blue bars). 
 
-[![image](https://user-images.githubusercontent.com/68825348/94755896-dd49da00-034a-11eb-90e1-491aa9a776e6.png)](https://vizhub.com/reshayganfar/9cd83f48e9464b69823f5d603b4088c4)
-
-The above chart plots the ratio of female cabinet members over time; the ratio of female cabinet members appears to be increasing over time.
-
-[![image](https://user-images.githubusercontent.com/68825348/94756819-67933d80-034d-11eb-8f7d-3bb68f8bc823.png)](https://vizhub.com/reshayganfar/14699b46c9104e9492b0fe0af3df991e)
-
-The chart was designed to investigate the question "How does the ratio of females in cabinets different governmental systems?" Based on the chart, it appears as though Mixed Democratic, Parliamentary Democracies and Presidential Democracies have slightly higher ratios of females in cabinets while it appears that Military Dictatorships and Royal Dictatorships have lower ratios.
-
 [![image](https://user-images.githubusercontent.com/68825348/95390738-b2133d80-08aa-11eb-891c-559aae692182.png)](https://vizhub.com/reshayganfar/f6bf28624809495f92feeafbe4b681cd)
 
-The chart was designed to investigate the question "How does the ratio of females in cabinets relate to the ratio of military personal in cabinets in different regions?" Africa stands out as a region that has significant military presence in combination with female presence in government cabinets. Asia & Pacific and the Middle East stand out as having significant military presence with low female presence in government cabinets. Europe stands out as having the highest level of female involvement.
+The chart plots the ratio of female cabinet members against the ratio of military cabinet members, color coded by region. Whereas the first plot displayed contained all data points for the entire 50-year span, this plot includes the average female and military ratio for each country over the last 15 years of the dataset. Several intersting points stood out in this chart. Africa has significant military presence in combination with female presence in government cabinets. Asia & Pacific and the Middle East have significant military presence with low female presence in government cabinets. Europe has the highest level of female involvement.
 
 ## Sketch
 
