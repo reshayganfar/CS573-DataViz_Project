@@ -32,13 +32,8 @@ The above chart plots the number of countries with a female ratio of zero over t
 
 The final visualization for this WhoGove dataset is shown above. The chart is a scatterplot with the following features: 
 * Tooltip: When hovering over a data point, the tooltip will provide the country name, x-value and y-value
-* X- and Y-axis Dropdowns: The variable plotted on each access can be selected as any of the following three choices: 
-- Female Ratio
-- Military Ratio
-- Retention
-* Color Dropdown: The meaning of the color coding can be changed between the following two options: 
-- Region: color coding indicates the geographic region of each data point
-- Government system: color coding indicates the government system of each data point
+* X- and Y-axis Dropdowns: The variable plotted on each access can be selected as any of the following three choices: (1) Female Ratio, (2) Military Ratio, and (3) Retention
+* Color Dropdown: The meaning of the color coding can be changed between the following two options: (1) Region: color coding indicates the geographic region of each data point, and (2) Government system: color coding indicates the government system of each data point
 * Slider: allows the user to select which year of data to view; year range from 1966 to 2016; tick marks indicate 10-year increments
 
 ## Open Questions
