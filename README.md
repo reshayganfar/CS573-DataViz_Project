@@ -53,3 +53,7 @@ There are improvements that can be made to the existing visualization, as well a
 The slider should be improved in the existing visualization. I would like it to show the minimum value at the left end of the slider (1966) and the maximum value at the right end (2016). I also think the user would benefit from having a readout that indicates which year's data is being displayed. 
 
 Another change that may be beneficial would be to change the scatter plot to a bubble plot, where the size of the bubble indicates the size of the cabinet. This would allow the user to observe how cabinet sizes have changed over time, and whether there seems to be any correlation between cabinet size and the other variables (i.e. female ratio, military ratio, retention, region and government system). 
+
+### Alternate Visualizations
+
+Because the data is geographic, it may be very beneficial to create a choropleth map. Region would be encoded within the map. Dropdowns could allow the user to alternate between showing military ratio, female ratio and retention. A slider could be implemented to allow the user to select the year for display. 
