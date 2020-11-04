@@ -20,7 +20,11 @@ The above chart was designed investigate the relationship between two other vari
 
 [![image](https://user-images.githubusercontent.com/68825348/95390738-b2133d80-08aa-11eb-891c-559aae692182.png)](https://vizhub.com/reshayganfar/f6bf28624809495f92feeafbe4b681cd)
 
-The chart plots the ratio of female cabinet members against the ratio of military cabinet members, color coded by region. Whereas the first plot displayed contained all data points for the entire 50-year span, this plot includes the average female and military ratio for each country over the last 15 years of the dataset. Several intersting points stood out in this chart. Africa has significant military presence in combination with female presence in government cabinets. Asia & Pacific and the Middle East have significant military presence with low female presence in government cabinets. Europe has the highest level of female involvement.
+The above chart plots the ratio of female cabinet members against the ratio of military cabinet members, color coded by region. Whereas the first plot displayed contained all data points for the entire 50-year span, this plot includes the average female and military ratio for each country over the last 15 years of the dataset. Several intersting points stood out in this chart. Africa has significant military presence in combination with female presence in government cabinets. Asia & Pacific and the Middle East have significant military presence with low female presence in government cabinets. Europe has the highest level of female involvement.
+
+[![image](https://user-images.githubusercontent.com/68825348/98069025-acaa0400-1e12-11eb-8df0-276d8b49b2e7.png)](https://vizhub.com/reshayganfar/eeb9a18afdb04b79a81d38f7e7490aa9?mode=full)
+
+The above chart plots the number of countries with a female ratio of zero over time. This plot shows that the number of countries was relatively static at about 100 until 1975, when the number started to decrease. Around 2006, the number stabilized at about 10 countries, until 2013 when the number began to slowly decrease again. 
 
 ## Sketch
 
