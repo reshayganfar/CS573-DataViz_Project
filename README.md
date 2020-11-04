@@ -14,13 +14,13 @@ I’ve created five visualizations to investigate the data. Each of these visual
 
 The above chart plots the ratio of female cabinet members against the ratio of male cabinet members. There are many data points along the x-axis (corresponding to a military ratio of zero) and many points along the y-axis (corresponding to a female ratio of zero). However, there appears to be a loosely correlated inverse relationship between the female ratio and the military ratio. This observation prompted me to want to dig deeper and investigate what other variables may be correlated with or possibly causing this relationship. 
 
+[![image](https://user-images.githubusercontent.com/68825348/94756050-4af60600-034b-11eb-98c4-1fd69bb16c0b.png)](https://vizhub.com/reshayganfar/e72e753d5ff34c23bff7466351e5c12b)
+
+The above chart was designed investigate the relationship between two other variables: (1) retention rate and (2) geographic region. 
+
 [![image](https://user-images.githubusercontent.com/68825348/94755896-dd49da00-034a-11eb-90e1-491aa9a776e6.png)](https://vizhub.com/reshayganfar/9cd83f48e9464b69823f5d603b4088c4)
 
 The above chart plots the ratio of female cabinet members over time; the ratio of female cabinet members appears to be increasing over time.
-
-[![image](https://user-images.githubusercontent.com/68825348/94756050-4af60600-034b-11eb-98c4-1fd69bb16c0b.png)](https://vizhub.com/reshayganfar/e72e753d5ff34c23bff7466351e5c12b)
-
-The chart was designed to investigate the question "How does retention rate vary across different governmental systems?" Based on the chart, it appears as though Civilian Dictatorships and Royal Dictatorships have the highest average retention rates while Mixed Democratic, Parliamentary Democracy and Presidential Democracy have lower average retention rates.
 
 [![image](https://user-images.githubusercontent.com/68825348/94756819-67933d80-034d-11eb-8f7d-3bb68f8bc823.png)](https://vizhub.com/reshayganfar/14699b46c9104e9492b0fe0af3df991e)
 
