@@ -34,7 +34,15 @@ The final visualization for this WhoGove dataset is shown above. The chart is a 
 * Tooltip: When hovering over a data point, the tooltip will provide the country name, x-value and y-value
 * X- and Y-axis Dropdowns: The variable plotted on each access can be selected as any of the following three choices: (1) Female Ratio, (2) Military Ratio, and (3) Retention
 * Color Dropdown: The meaning of the color coding can be changed between the following two options: (1) Region: color coding indicates the geographic region of each data point, and (2) Government system: color coding indicates the government system of each data point
+* Color Legend: Hovering over keys on the color legend causes all other data series to fade out on the chart
 * Slider: allows the user to select which year of data to view; year range from 1966 to 2016; tick marks indicate 10-year increments
+
+Experimenting with the visualization settings allows the user to perceive the following: 
+1) The female ratio increases over time
+2) The military ratio decreases over time
+3) African states stand out as having relatively high military ratios in combination with relatively high female ratios
+4) Military dictatorships started out with a moderate military ratio, which increased through steadily into the 1980s (when military dictatorships had very high military ratios relative to other government systems) before decreasing to much lower levels again by 2016
+5) No trend over time is apparent in the retention rate 
 
 ## Open Questions
 
