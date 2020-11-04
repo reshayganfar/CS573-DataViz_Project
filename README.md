@@ -16,7 +16,7 @@ The above chart plots the ratio of female cabinet members against the ratio of m
 
 [![image](https://user-images.githubusercontent.com/68825348/94756050-4af60600-034b-11eb-98c4-1fd69bb16c0b.png)](https://vizhub.com/reshayganfar/e72e753d5ff34c23bff7466351e5c12b)
 
-The above chart was designed investigate the relationship between two other variables: (1) retention rate and (2) geographic region. 
+The above chart was designed investigate the relationship between two other variables: (1) retention rate and (2) government type. While not a very strong indicator, the retention rate appeared to be lowest in presidential democracies (yellow bars), and highest in royal dictatorships (purple bars) and civilian dictatorships (blue bars). 
 
 [![image](https://user-images.githubusercontent.com/68825348/94755896-dd49da00-034a-11eb-90e1-491aa9a776e6.png)](https://vizhub.com/reshayganfar/9cd83f48e9464b69823f5d603b4088c4)
 
