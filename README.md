@@ -2,12 +2,13 @@
 
 ## Data
 
-The data I propose to visualize for my project is the WhoGov dataset provided by Nuffield College, University of Oxford [here](https://www.nuffield.ox.ac.uk/our-research/research-centres/nuffield-politics-research-centre/whogov/whogov-download-links/). The dataset contains information about more than 50,000 cabinet members from 177 countries, spanning July 1966 - July 2016. There is a separate entry for each cabinet member, from each country, for each year. Each entry contains information such as party affiliation, gender, age and military affiliation.
+The data I visualized for my project is the WhoGov dataset provided by Nuffield College, University of Oxford [here](https://www.nuffield.ox.ac.uk/our-research/research-centres/nuffield-politics-research-centre/whogov/whogov-download-links/). The dataset contains information about more than 50,000 cabinet members from 177 countries, spanning July 1966 - July 2016. There is a separate entry for each cabinet member, from each country, for each year. Each entry contains information such as party affiliation, gender, age and military affiliation.
 
-## Prototypes
+## Exploratory Visualizations
+
+In the early phase of the project I created several exploratory visualizations in order to investigate the data. 
 
 I’ve created five visualizations to investigate the data. Each of these visualizations is provided below with a brief description: 
-
 
 [![image](https://user-images.githubusercontent.com/68825348/94755774-77f5e900-034a-11eb-9d5e-e123dd56edd7.png)](https://vizhub.com/reshayganfar/3452ae85ed284611b9f01ed085428735)
 
@@ -29,6 +30,12 @@ The chart was designed to investigate the question "How does the ratio of female
 
 The chart was designed to investigate the question "How does the ratio of females in cabinets relate to the ratio of military personal in cabinets in different regions?" Africa stands out as a region that has significant military presence in combination with female presence in government cabinets. Asia & Pacific and the Middle East stand out as having significant military presence with low female presence in government cabinets. Europe stands out as having the highest level of female involvement.
 
+## Sketch
+
+The sketch below shows an interactive bubble chart that can be used to observe patterns over time in the data. This sketch will also include the interactions listed in Items 1-3 in the previous section. 
+
+![image](https://user-images.githubusercontent.com/68825348/94760479-7979de00-0357-11eb-9235-ed0768c9e617.png)
+
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
@@ -44,12 +51,6 @@ There are four types of interaction that I want to add to the visualization:
 2) X- and Y-Variable Menus: There will be a dropdown to select the variable on each axis; the two dropdowns will contain the same options. Options will include: size of cabinet, female ratio, military ratio and retention rate.
 3) Color Menu: There will be a dropdown menu to allow the user to change the color coding. The two options will be geographic region and government system. 
 4) Slider for Year: As mentioned above, the dataset covers a 50-year span (1966 - 2016). A slider will be introduced to allow the user to select which year of data to display. 
-
-## Sketch
-
-The sketch below shows an interactive bubble chart that can be used to observe patterns over time in the data. This sketch will also include the interactions listed in Items 1-3 in the previous section. 
-
-![image](https://user-images.githubusercontent.com/68825348/94760479-7979de00-0357-11eb-9235-ed0768c9e617.png)
 
 ## Schedule of Deliverables
 Below is the list of tasks that I will complete for this project: 
